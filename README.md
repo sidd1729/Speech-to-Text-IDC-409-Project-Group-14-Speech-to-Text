@@ -5,5 +5,6 @@ Download Datasets here for direct use:
 
 Otherwise use Montreal Forced Aligner and get the output and proceed.
 Format the audio in the form:
-
-The textgrids just should be in the format returned by MFA
+ Folder -> Folder -> Audio File
+The textgrids just should be in the format returned by MFA:
+  Aligned_Folder -> Folder -> Textgrid
