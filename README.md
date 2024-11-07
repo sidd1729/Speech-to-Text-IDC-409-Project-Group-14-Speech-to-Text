@@ -1,7 +1,7 @@
 Download Datasets here for direct use:
   Links to datasets:
 
-  https://drive.google.com/file/d/12T9YjFeSq9kz_ohQX3DqQK2Jtl0hLZXQ/view?usp=drive_link
+  https://drive.google.com/drive/folders/1URU4qfgJYLAc_fUhlXWyRp0Twrmipnzw?usp=drive_link
 
 Otherwise use Montreal Forced Aligner and get the output and proceed.
 Format the audio in the form:
