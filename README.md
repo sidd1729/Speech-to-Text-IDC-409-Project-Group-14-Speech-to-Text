@@ -1,5 +1,5 @@
 Download Datasets here for direct use:\
-  Links to datasets:\
+  Links to datasets:
 
   https://drive.google.com/drive/folders/1URU4qfgJYLAc_fUhlXWyRp0Twrmipnzw?usp=drive_link\
 
